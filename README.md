@@ -44,3 +44,8 @@ Credit card default prediction is crucial for financial institutions to manage r
            
 # Web Application:
 The web application built using Streamlit allows users to input values for the features and get predictions on whether the customer will default on their payment.The app includes input fields for each feature and displays the prediction result upon submission.
+
+![image](https://github.com/user-attachments/assets/40cce37a-4b92-4cea-9020-2dc8ff977834)
+![image](https://github.com/user-attachments/assets/fc927f66-a90f-4334-86d2-95f2daee5ee6)
+
+
